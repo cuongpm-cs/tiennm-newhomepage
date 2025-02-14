@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F67ykzGr_hY33mOEoMQPjtpSIuUVsNrvD0tedddK_K02c5HpQhI_B_IWa61NMsucCc9PvNPuym5NbZchQ3hpTodOnLgSYZ80Vsm8m4VVPifQD_FgYU&user=zayQB-oAAAAJ"
   email            : "scanavan@usf.edu"
-  researchgate     : "https://www.researchgate.net/profile/Shaun-Canavan-2"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@scanavanUSF"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCWnwWP1t-6oMwBIuEhV7-nA"
+  youtube          : 
   wikipedia        :
 
 
