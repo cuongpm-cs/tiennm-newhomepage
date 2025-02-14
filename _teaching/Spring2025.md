@@ -1,5 +1,5 @@
 ---
-title: "CAP 4687 & CAI"
+title: "CAP 4687 & CAI 5627"
 collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/Spring2025
