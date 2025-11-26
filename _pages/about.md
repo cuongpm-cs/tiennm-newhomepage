@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in the [Computer Science and Engineering Department](http://csee.usf.edu/) at the [University of South Florida](http://www.usf.edu), as well as a member of the [Computer Vision and Pattern Recognition Group](http://www.eng.usf.edu/cvprg/index.html). My research interests are broadly in computer vision, pattern recognition, and image processing. See below for more specific research interests, including application areas. If you are unable to locate any of my papers, please feel free to contact me. I am happy to share them.
+I am an Associate Professor at the Hung Yen University of Technology and Education and a member of several research collaborations in Natural Language Processing and Applied Artificial Intelligence. My research focuses broadly on natural language processing, machine learning, and intelligent information extraction. See below for more specific research interests and application domains. If you are unable to locate any of my publications, please feel free to contact me. I am happy to share them.
 
 Research Interests
 ====
-Affective Computing  
-Biometrics  
+Natural Language Processing (NLP)  
 Machine Learning  
-Context-bsaed Multimodal Human Behavior Analysis  
+Legal Artificial Intelligence (Legal AI)  
+Information Extraction  
+Event and Incident Analysis  
+Business Intelligence  
+Text Summarization and Question Answering  
 
 Research Application Areas of Interest
 ====
-Medicine & Health  
-Security  
-Entertainment  
-Education  
+Law and Judicial Systems  
+Safety, Risk Management, and Incident Prevention  
+Business and Enterprise Analytics  
+Education and Academic Knowledge Systems  
